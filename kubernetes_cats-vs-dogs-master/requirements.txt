@@ -1,5 +1,0 @@
-Flask==1.0.2
-tensorflow==2.0.0-alpha0
-opencv-python
-tqdm
-keras
